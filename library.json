@@ -1,0 +1,19 @@
+{
+  "name": "toshiba_ab_protocol",
+  "version": "0.0.1",
+  "description": "A small library for communicating with Toshiba Heat Pumps through the AB protocol",
+  "keywords": "Toshiba AB protocol Heat pump",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alsig/toshiba_ab_protocol.git"
+  },
+  "authors": [
+    {
+      "name": "Jens Alsig",
+      "email": "alsig@alsig.dk"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
